@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pero</h1>
-<h3 align="center">"Don't Panic." - Douglas Adams</h3>
+<h3 align="center">“If you think it's simple, then you have misunderstood the problem.”<br>― Bjarne Stroustrup</h3>
 
 ---
 
