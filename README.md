@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pero</h1>
-<h3 align="center">“If you think it's simple, then you have misunderstood the problem.”<br>― Bjarne Stroustrup</h3>
-
----
-
+<h3 align="center"><em>“If you think it's simple, then you have misunderstood the problem.”</em></h3>
+<p align="center"> Bjarne Stroustrup</p>
+<hr>
 <h3 align="center">Languages:</h3>
 <div align="center">
   <p>
@@ -26,9 +25,7 @@
     </a>
   </p>
 </div>
-
----
-
+<hr>
 <h3 align="center">Frameworks:</h3>
 <div align="center">
   <p>
@@ -46,9 +43,7 @@
     </a>
   </p>
 </div>
-
----
-
+<hr>
 <h3 align="center">Tools:</h3>
 <div align="center">
   <p>
@@ -99,9 +94,7 @@
     </a>
   </p>
 </div>
-
----
-
+<hr>
 <h3 align="center">GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pero-grubac&show_icons=true&locale=en&layout=compact&card_width=320" alt="Top Languages" style="margin-right: 10px;" />
