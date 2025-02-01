@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Pero</h1>
 <h3 align="center"><em>“If you think it's simple, then you have misunderstood the problem.”</em></h3>
 <p align="center"> Bjarne Stroustrup</p>
 <hr>
