@@ -97,5 +97,5 @@
 <h3 align="center">GitHub Stats:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pero-grubac&show_icons=true&locale=en&layout=compact&card_width=320" alt="Top Languages" style="margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api?username=pero-grubac&show_icons=true&locale=en&card_width=320" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=pero-grubac&show_icons=true&locale=en&card_width=320" alt="GitHub Stats" /> -->
 </div>
