@@ -78,7 +78,7 @@
 | [**Incident Alert**](https://github.com/pero-grubac/IncidentAlert) | Real-time incident tracking system with microservices architecture and event-driven messaging. Full-stack: [Frontend](https://github.com/pero-grubac/IncidentAlertFrontend) · [Management](https://github.com/pero-grubac/IncidentAlertFrontend-Mangement) | ASP.NET · RabbitMQ · React · Docker |
 | [**Online Library System**](https://github.com/pero-grubac/Online-Library-System) | Distributed library platform with Redis, WebSockets, and multi-app architecture | Java · Redis · WebSocket · RMI |
 | [**AssetManager**](https://github.com/pero-grubac/AssetManager) | Android app for company asset tracking with barcode scanning and map integration | Flutter · SQLite · Google Maps |
-
+<!--
 ---
 
 ### 📊 GitHub Stats
@@ -90,7 +90,7 @@
 </div>
 
 ---
-
+ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
