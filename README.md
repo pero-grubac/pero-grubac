@@ -78,6 +78,7 @@
 | [**Incident Alert**](https://github.com/pero-grubac/IncidentAlert) | Real-time incident tracking system with microservices architecture and event-driven messaging. Full-stack: [Frontend](https://github.com/pero-grubac/IncidentAlertFrontend) · [Management](https://github.com/pero-grubac/IncidentAlertFrontend-Mangement) | ASP.NET · RabbitMQ · React · Docker |
 | [**Online Library System**](https://github.com/pero-grubac/Online-Library-System) | Distributed library platform with Redis, WebSockets, and multi-app architecture | Java · Redis · WebSocket · RMI |
 | [**AssetManager**](https://github.com/pero-grubac/AssetManager) | Android app for company asset tracking with barcode scanning and map integration | Flutter · SQLite · Google Maps |
+| [**Chat Room**](https://github.com/pero-grubac/Chat-room) | Secure internet forum with 2FA, JWT, OAuth2, WAF and SIEM. Fully containerized with Docker and Nginx reverse proxy | Spring Boot · React · MySQL · Docker · Nginx |
 <!--
 ---
 
