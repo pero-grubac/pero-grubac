@@ -6,8 +6,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perogrubac/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/perogrubac/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge)](https://pero-grubac.github.io/)
+[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-1a1a2e?style=for-the-badge)](https://pero-grubac.github.io/github-dashboard/)
 
 </div>
 
