@@ -33,7 +33,7 @@
   "languages": ["Java", "C#", "Python"],
   "frameworks": ["Spring Boot", ".NET", "FastAPI"],
   "tools": ["Docker", "RabbitMQ", "PostgreSQL"],
-  "open_to": "Collaborations & interesting projects"
+  "open_to": "Backend roles & freelance work"
 }
 ```
 
@@ -79,23 +79,11 @@
 | [**eMobilityHub**](https://github.com/pero-grubac/e-Mobility-Hub) | Electric vehicle rental management platform with analytics, role-based access, PDF invoicing, and CSV bulk import. Fully containerized with Docker and Nginx reverse proxy | Spring Boot · Angular · JSP · MySQL · Docker · Nginx |
 | [**Chat Room**](https://github.com/pero-grubac/Chat-room) | Secure internet forum with 2FA, JWT, OAuth2, WAF and SIEM. Fully containerized with Docker and Nginx reverse proxy | Spring Boot · React · MySQL · JWT · OAuth2 · Docker · Nginx |
 | [**Online Library System**](https://github.com/pero-grubac/Online-Library-System) | Distributed library platform with Redis, WebSockets, RMI and multi-app architecture | Java · Redis · WebSocket · RMI · RabbitMQ |
-| [**Fit Forge**](https://github.com/pero-grubac/fit_forge) | Fitness tracking and workout management application focused on training organization, progress tracking and modern mobile UX | Flutter · Riverpod · SQLite |
-| [**AssetManager**](https://github.com/pero-grubac/AssetManager) | Android app for company asset tracking with barcode scanning and map integration | Flutter · SQLite · Google Maps |
-| [**ETF Oglasi**](https://github.com/pero-grubac/ETFOglasi) | Mobile app for university announcements and schedules with offline caching, push notifications and localization. Graduation thesis project | Flutter · SQLite · Riverpod · WorkManager |
-| [**Store Management System**](https://github.com/pero-grubac/Store-Management-System) | Desktop app for retail store operations with role-based access, CRUD and audit logging | C# · .NET · MySQL · WinForms |
-<!--
----
+| [**Fit Forge**](https://github.com/pero-grubac/fit_forge) | Fitness tracking and workout management application focused on training organization, progress tracking and modern mobile UX — first app shipped to release | Flutter · Riverpod · SQLite |
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=pero-grubac&layout=compact&card_width=320&cache_seconds=21600&theme=tokyonight" alt="Top Languages"/>
-
-</div>
+<p align="center"><sub>More projects pinned below ↓</sub></p>
 
 ---
- -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
