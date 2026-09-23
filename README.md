@@ -6,84 +6,74 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge)](https://www.linkedin.com/in/perogrubac/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge)](https://pero-grubac.github.io/)
-[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-1a1a2e?style=for-the-badge)](https://pero-grubac.github.io/github-dashboard/)
-[![Dev Timeline](https://img.shields.io/badge/Dev_Timeline-646cff?style=for-the-badge)](https://pero-grubac.github.io/dev-timeline/)
-</div>
-
----
-<div align="center">
-
-<h3><i>"If you think it's simple, then you have misunderstood the problem."</i></h3>
-
-<b>— Bjarne Stroustrup</b>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perogrubac/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pero-grubac.github.io/)
+[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://pero-grubac.github.io/github-dashboard/)
+[![Dev Timeline](https://img.shields.io/badge/Dev_Timeline-646cff?style=for-the-badge&logo=clockify&logoColor=white)](https://pero-grubac.github.io/dev-timeline/)
 
 </div>
 
 ---
+
 ### 👨‍💻 About Me
 
-```json
-{
-  "name": "Pero Grubač",
-  "role": "Backend Developer",
-  "degree": "Software Engineering",
-  "focus": ["Distributed Systems", "REST APIs", "Microservices"],
-  "languages": ["Java", "C#", "Python"],
-  "frameworks": ["Spring Boot", ".NET", "FastAPI"],
-  "tools": ["Docker", "RabbitMQ", "PostgreSQL"],
-  "open_to": "Backend roles & freelance work"
-}
-```
+Backend developer with a degree in Software Engineering, focused on **distributed systems, REST APIs and microservices**. I mostly build with **Java / Spring Boot**, **C# / .NET** and **Python / FastAPI**, wired together with Docker, RabbitMQ and PostgreSQL.
+
+I also work across the stack when a project needs it: React and Angular frontends, and Flutter on mobile.
+
+📫 **Open to backend roles & freelance work.** Reach me on [LinkedIn](https://www.linkedin.com/in/perogrubac/).
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
+<p>
+  <b>Backend</b><br/>
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,py,fastapi&theme=dark" alt="Java, Spring Boot, C#, .NET, Python, FastAPI"/>
+</p>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=oracle&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p>
+  <b>Infrastructure & Data</b><br/>
+  <img src="https://skillicons.dev/icons?i=docker,rabbitmq,postgres,mysql,redis,nginx,gcp&theme=dark" alt="Docker, RabbitMQ, PostgreSQL, MySQL, Redis, Nginx, Google Cloud"/>
+</p>
 
-**Frameworks & Libraries**
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-
-**Infrastructure & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+<p>
+  <b>Frontend & Mobile</b><br/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,angular,dart,flutter&theme=dark" alt="TypeScript, JavaScript, React, Angular, Dart, Flutter"/>
+</p>
 
 ---
 
 ### 🚀 Featured Projects
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [**Incident Alert**](https://github.com/pero-grubac/IncidentAlert) | Real-time incident tracking system with microservices architecture and event-driven messaging. Full-stack: [Frontend](https://github.com/pero-grubac/IncidentAlertFrontend) · [Management](https://github.com/pero-grubac/IncidentAlertFrontend-Mangement) | ASP.NET · RabbitMQ · React · Docker |
-| [**eMobilityHub**](https://github.com/pero-grubac/e-Mobility-Hub) | Electric vehicle rental management platform with analytics, role-based access, PDF invoicing, and CSV bulk import. Fully containerized with Docker and Nginx reverse proxy | Spring Boot · Angular · JSP · MySQL · Docker · Nginx |
-| [**Chat Room**](https://github.com/pero-grubac/Chat-room) | Secure internet forum with 2FA, JWT, OAuth2, WAF and SIEM. Fully containerized with Docker and Nginx reverse proxy | Spring Boot · React · MySQL · JWT · OAuth2 · Docker · Nginx |
-| [**Online Library System**](https://github.com/pero-grubac/Online-Library-System) | Distributed library platform with Redis, WebSockets, RMI and multi-app architecture | Java · Redis · WebSocket · RMI · RabbitMQ |
-| [**Fit Forge**](https://github.com/pero-grubac/fit_forge) | Fitness tracking and workout management application focused on training organization, progress tracking and modern mobile UX — first app shipped to release | Flutter · Riverpod · SQLite |
+**[Incident Alert](https://github.com/pero-grubac/IncidentAlert)**: Real-time incident tracking built on microservices and event-driven messaging, with a separate [public frontend](https://github.com/pero-grubac/IncidentAlertFrontend) and [management app](https://github.com/pero-grubac/IncidentAlertFrontend-Mangement).
+<br/><sub>`ASP.NET` `RabbitMQ` `React` `Docker`</sub>
+
+**[Secure Forum](https://github.com/pero-grubac/Chat-room)**: Internet forum hardened with 2FA, JWT, OAuth2, a WAF and SIEM logging. Runs as containers behind an Nginx reverse proxy.
+<br/><sub>`Spring Boot` `React` `MySQL` `OAuth2` `Docker` `Nginx`</sub>
+
+**[eMobilityHub](https://github.com/pero-grubac/e-Mobility-Hub)**: Electric vehicle rental platform with analytics, role-based access, PDF invoicing and CSV bulk import. Runs as containers behind an Nginx reverse proxy.
+<br/><sub>`Spring Boot` `Angular` `JSP` `MySQL` `Docker` `Nginx`</sub>
+
+**[Online Library System](https://github.com/pero-grubac/Online-Library-System)**: Distributed library platform split across several apps communicating over RMI, WebSockets and RabbitMQ, with Redis for shared state.
+<br/><sub>`Java` `RMI` `WebSocket` `RabbitMQ` `Redis`</sub>
+
+**[Fit Forge](https://github.com/pero-grubac/fit_forge)**: Fitness app for organizing workouts and tracking progress. My first mobile app, available to download as a release build.
+<br/><sub>`Flutter` `Riverpod` `SQLite`</sub>
+
+[![Download](https://img.shields.io/github/v/release/pero-grubac/fit_forge?style=flat-square&label=download&color=2c5364)](https://github.com/pero-grubac/fit_forge/releases/latest)
 
 <p align="center"><sub>More projects pinned below ↓</sub></p>
 
 ---
+
+<div align="center">
+
+<i>"If you think it's simple, then you have misunderstood the problem."</i><br/>
+<sub>— Bjarne Stroustrup</sub>
+
+</div>
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
