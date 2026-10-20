@@ -8,8 +8,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/perogrubac/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C896?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pero-grubac.github.io/)
-[![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://pero-grubac.github.io/github-dashboard/)
-[![Dev Timeline](https://img.shields.io/badge/Dev_Timeline-646cff?style=for-the-badge&logo=clockify&logoColor=white)](https://pero-grubac.github.io/dev-timeline/)
+[![RepoHealth Monitor](https://img.shields.io/badge/RepoHealth_Monitor-2c5364?style=for-the-badge&logo=github&logoColor=white)](https://repository-health-monitor.vercel.app)
+
 
 </div>
 
